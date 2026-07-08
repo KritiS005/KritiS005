@@ -65,7 +65,7 @@ A React.js, Node.js, and Firebase app that auto‑generates weekly study timetab
 </details>
 
 <details>
-<summary><b>HEAL Point — AI Telemedicine</b></summary>
+<summary><b>HEAL Point — AI TeleConsultation</b></summary>
 <br>
 An AI telemedicine platform built with Next.js, Supabase, Prisma, and Gemini API, enabling secure patient‑doctor interactions.
 
