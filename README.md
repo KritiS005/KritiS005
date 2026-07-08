@@ -26,27 +26,27 @@
 ---
 
 ## 👩‍💻 About Me
-I am a Computer Science undergraduate (CGPA 9.47/10.0) and a dedicated **Full‑Stack Software Engineer** passionate about building scalable, secure, and user‑centric applications.  
+I am a Computer Science undergraduate (CGPA 9.47/10.0) and a dedicated **Full‑Stack Software Engineer** passionate about building scalable, secure, and user‑centric applications.
 
 **Engineering Strengths:**
-- Product Engineering & Backend Architecture  
-- Distributed Systems & API Security  
-- Vercel Deployment & CI/CD Automation  
-- Performance Optimization & Scalability  
-- AI/ML Integration with LLMs  
-- Engineering Principles: Clean Architecture, Design Patterns, Testing, Agile  
+- Product Engineering & Backend Architecture
+- Distributed Systems & API Security
+- Vercel Deployment & CI/CD Automation
+- Performance Optimization & Scalability
+- AI/ML Integration with LLMs
+- Engineering Principles: Clean Architecture, Design Patterns, Testing, Agile
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** C, C++, Java, Python, JavaScript  
-**Frontend:** React.js, Next.js, Angular, HTML5, CSS3, Tailwind CSS  
-**Backend:** Node.js, REST API, WebRTC  
-**Databases:** PostgreSQL, MongoDB, MySQL, Supabase, Prisma, Firebase  
-**Cloud & DevOps:** Git, GitHub, Vercel, Linux, WordPress, CI/CD  
-**AI/ML:** Gemini API, Prompt Engineering, Real‑Time Data Pipelines  
-**Tools:** VS Code, Docker (learning), Agile Practices  
+**Languages:** C, C++, Java, Python, JavaScript
+**Frontend:** React.js, Next.js, Angular, HTML5, CSS3, Tailwind CSS
+**Backend:** Node.js, REST API, WebRTC
+**Databases:** PostgreSQL, MongoDB, MySQL, Supabase, Prisma, Firebase
+**Cloud & DevOps:** Git, GitHub, Vercel, Linux, WordPress, CI/CD
+**AI/ML:** Gemini API, Prompt Engineering, Real‑Time Data Pipelines
+**Tools:** VS Code, Docker (learning), Agile Practices
 
 ---
 
@@ -59,7 +59,7 @@ A React.js, Node.js, and Firebase app that auto‑generates weekly study timetab
 
 | Stack | Scale | Performance | Security | Repository |
 | :--- | :--- | :--- | :--- | :--- |
-| React, Node.js, Firebase, Gemini API | 5+ subject categories tracked | Real‑time Firebase listeners | Firebase session‑client auth consistency | [GitHub](https://github.com/KritiS005/AI-Study-Buddy-Planner) |
+| React, Node.js, Firebase, Gemini API | 5+ subject categories tracked | Real‑time Firebase listeners | Firebase session‑client auth consistency | [GitHub](https://github.com/KritiS005/ai-study-buddy) |
 
 **Impact:** Reduced manual planning time significantly with burnout detection and analytics dashboard.
 </details>
@@ -71,63 +71,64 @@ An AI telemedicine platform built with Next.js, Supabase, Prisma, and Gemini API
 
 | Stack | Scale | Performance | Security | Repository |
 | :--- | :--- | :--- | :--- | :--- |
-| Next.js, Supabase (PostgreSQL), Prisma, WebRTC, Gemini API | Multi‑role (Patient/Doctor/Admin) | Real‑time consultations | Row‑Level Security enforced | [GitHub](https://github.com/KritiS005/HEAL-Point) |
+| Next.js, Supabase (PostgreSQL), Prisma, WebRTC, Gemini API | Multi‑role (Patient/Doctor/Admin) | Real‑time consultations | Row‑Level Security enforced | [GitHub](https://github.com/KritiS005/healpoint) |
 
-**Impact:** Simplified healthcare access with AI‑powered prescription summaries for non‑medical users.
+**Impact:** Simplified healthcare access with a Gemini API-powered feature that converts prescription and diagnostic text into plain-language explanations, delivered in the patient's preferred language for non‑medical users.
 </details>
 
 ---
 
 ## 🤖 AI Expertise
 
-| Domain             | Proficiency          | Details |
-| ------------------ | -------------------- | ------- |
-| LLM Integration    | Beginner–Intermediate | Gemini API with streaming responses (AI Study Buddy Planner, HEAL Point) |
-| Prompt Engineering | Beginner–Intermediate | System prompts for coding agents; prescription summarization in HEAL Point |
-| Real‑Time Systems  | Beginner–Intermediate | Firebase listeners for live redistribution (AI Study Buddy Planner) |
-| Vector Search (RAG)| Beginner–Intermediate | Applied in AI coursework and experiments |
-| AI Agents          | Beginner–Intermediate | Tool calling & orchestration for multi‑role workflows (HEAL Point) |
+| Domain             | Proficiency | Details |
+| ------------------ | ----------- | ------- |
+| LLM Integration    | Intermediate | Gemini API with streaming responses (AI Study Buddy Planner); multilingual prescription/diagnostic summarization (HEAL Point) |
+| Prompt Engineering | Intermediate | Prompt design for AI coding agents; report-simplification prompts in HEAL Point |
+| Real‑Time Systems  | Intermediate | Firebase listeners for live redistribution (AI Study Buddy Planner) |
+| Vector Search (RAG) | Beginner | Currently learning and applying in coursework and personal experiments |
 
 ---
 
 ## 🏆 Achievements
-- **150+ DSA Problems Solved** (LeetCode & GeeksforGeeks)  
-- **Techphilia Hackathon:** Full‑stack project shipped in 24 hours  
-- **Academic Excellence:** CGPA 9.47/10.0  
+- **150+ DSA Problems Solved** (LeetCode & GeeksforGeeks)
+- **Techphilia Hackathon:** Full‑stack project shipped in 24 hours
+- **Academic Excellence:** CGPA 9.47/10.0
 
 ---
 
 ## 💼 Experience
-**Web Developer Intern | Mango Tree Technology**  
-*Jun 2026 – Aug 2026 | Delhi, India*  
-- Diagnosed and resolved production‑level WordPress issues involving database integrity, plugin conflicts, and performance bottlenecks.  
-- Engineered an e‑commerce platform using React, Next.js, and MongoDB, improving deployment efficiency.  
+**Web Developer Intern | Mango Tree Technology**
+*Jun 2026 – Aug 2026 | Delhi, India*
+- Diagnosed and resolved production‑level WordPress issues involving database integrity and plugin conflicts.
+- Engineered an e‑commerce platform using React, Next.js, and MongoDB as part of the deployment team.
 
-**Virtual Internship Program (VIP) | Cisco**  
-*Jun 2026 – Present | Remote*  
-- Selected for Cisco’s prestigious VIP program; working on applied networking and engineering deliverables.  
+**Virtual Internship Program (VIP) | Cisco**
+*Jun 2026 – Present | Remote*
+- Selected for Cisco's Virtual Internship Program; working on applied networking and engineering deliverables.
 
 ---
 
 ## 📜 Certifications
 
-**Cisco Networking Academy**  
-![CCNA](https://img.shields.io/badge/CCNA-Networking-blue?style=for-the-badge)  
-![Python Essentials](https://img.shields.io/badge/Python-Essentials-blue?style=for-the-badge)  
-![Modern AI](https://img.shields.io/badge/Modern%20AI-blue?style=for-the-badge)  
+**Cisco Networking Academy**
+![CCNA](https://img.shields.io/badge/CCNA-Networking-blue?style=for-the-badge)
+![Python Essentials](https://img.shields.io/badge/Python-Essentials-blue?style=for-the-badge)
+![Modern AI](https://img.shields.io/badge/Modern%20AI-blue?style=for-the-badge)
 
-**Deloitte (Forage)**  
-![Cybersecurity](https://img.shields.io/badge/Technology%20%26%20Cybersecurity-green?style=for-the-badge)  
+**Deloitte (Forage)**
+![Cybersecurity](https://img.shields.io/badge/Technology%20%26%20Cybersecurity-green?style=for-the-badge)
 
-**NPTEL (IIT Guwahati)**  
-![Science Tech Society](https://img.shields.io/badge/NPTEL-90%25-success?style=for-the-badge)  
+**NPTEL (IIT Guwahati)**
+![Science Tech Society](https://img.shields.io/badge/NPTEL-90%25-success?style=for-the-badge)
 
 ---
 
 ## 💻 Coding Profiles
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </p>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</p>
+
 ---
 
 ## 🎯 Current Focus
@@ -136,19 +137,21 @@ learning:
   - Distributed Systems
   - Kubernetes
   - System Design
+  - Vector Search & RAG
 
 building:
   - HEAL Point
   - AI Study Buddy Planner
 
 exploring:
-  - Agentic AI
-  - Prompt Engineering
+  - Agentic AI & Tool Calling
+  - Multilingual LLM Applications
 
 open_to:
   - Software Engineering Internship
   - AI/ML Research
 ```
+
 ---
 
 ## 📊 GitHub Analytics
