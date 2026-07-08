@@ -31,7 +31,7 @@ I am a Computer Science undergraduate (CGPA 9.47/10.0) and a dedicated **Full‑
 **Engineering Strengths:**
 - Product Engineering & Backend Architecture  
 - Distributed Systems & API Security  
-- Cloud Deployment & CI/CD Automation  
+- Vercel Deployment & CI/CD Automation  
 - Performance Optimization & Scalability  
 - AI/ML Integration with LLMs  
 - Engineering Principles: Clean Architecture, Design Patterns, Testing, Agile  
