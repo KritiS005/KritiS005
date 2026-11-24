@@ -1,6 +1,6 @@
 # Kriti Singh
 
-<p align="center">
+<p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kriti%20Singh&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=65" />
 </p>
 
